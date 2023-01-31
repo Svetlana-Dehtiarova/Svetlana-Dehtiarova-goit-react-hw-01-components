@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.923d1311.css",
+    "main.js": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.9f2124e2.js",
     "index.html": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.923d1311.css.map": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.923d1311.css.map",
+    "main.9f2124e2.js.map": "/Svetlana-Dehtiarova/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.9f2124e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.923d1311.css",
+    "static/js/main.9f2124e2.js"
   ]
 }
