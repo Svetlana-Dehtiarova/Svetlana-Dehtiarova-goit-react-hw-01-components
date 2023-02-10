@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.cc435d03.css",
-    "main.js": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.1aa291cf.js",
+    "main.js": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.335a2c86.js",
     "index.html": "/Svetlana-Dehtiarova-goit-react-hw-01-components/index.html",
     "main.cc435d03.css.map": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/css/main.cc435d03.css.map",
-    "main.1aa291cf.js.map": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.1aa291cf.js.map"
+    "main.335a2c86.js.map": "/Svetlana-Dehtiarova-goit-react-hw-01-components/static/js/main.335a2c86.js.map"
   },
   "entrypoints": [
     "static/css/main.cc435d03.css",
-    "static/js/main.1aa291cf.js"
+    "static/js/main.335a2c86.js"
   ]
 }
