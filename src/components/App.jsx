@@ -16,7 +16,6 @@ export const App = () => {
   return (
     <Container>
       <Profile
-        key={user.username}
         username={user.username}
         tag={user.tag}
         location={user.location}
